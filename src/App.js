@@ -1,12 +1,12 @@
-import React from 'react'
+import React from "react";
+import Form from "./component/Form";
 
 const App = () => {
-  return (
-    <div>
-      
-    </div>
-  )
-}
+    return (
+        <>
+            <Form />
+        </>
+    );
+};
 
 export default App;
-
